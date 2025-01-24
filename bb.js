@@ -3,7 +3,6 @@ const greet = () => {
 };
 
 greet();
-// arrow function 
 const createUser = (name, age) => ({
     name: name,
     age: age
